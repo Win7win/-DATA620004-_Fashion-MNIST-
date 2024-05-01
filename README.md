@@ -5,3 +5,4 @@ DATA620004：HW1
 
 Homework_main.py中为完整流程，包括数据载入、模型训练、参数权重存储以及测试
 Homework_search.py为参数网格搜索，主要对不同参数组合进行了模型训练效果评估。
+weights_visual.py为训练权重参数可视化。
