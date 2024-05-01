@@ -1,0 +1,2 @@
+# -_Fashion-MNIST-
+DATA620004：HW1
