@@ -1,5 +1,4 @@
-# -_Fashion-MNIST-
-DATA620004：HW1
+# DATA620004：HW1
 复旦大学 神经网络和深度学习作业1
 仅使用numpy构建三层神经网络，在fashion-mnist数据集上实现图像分类
 
